@@ -1,5 +1,5 @@
 # ChatClient
-The client side of a Java local area network chatting program
+The client-side of a Java local area network chatting program
 
 ## Screenshots
 ![1b8e3969c8422c0c566e83208e43c6b](https://user-images.githubusercontent.com/55414757/147893944-d15b68e5-32ae-46bb-bd9f-5fcbccbb170d.png)
